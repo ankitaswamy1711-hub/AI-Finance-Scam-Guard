@@ -1,23 +1,23 @@
-# AI-Finance-Scam-Guard
+AI-Finance-Scam-Guard
 AI-powered tool to detect scam messages and classify student expenses in real-time.
-# AI-Powered Student Finance & Scam Guard
+AI-Powered Student Finance & Scam Guard
 
-## 🚨 Problem
+Problem
 Students face increasing scam messages and lack tools to identify them.
 
-## 💡 Solution
+ Solution
 This project uses AI to:
 - Detect scam messages
 - Classify expenses
 - Provide risk explanation
 
-## ⚙️ Features
+ Features
 - Real-time text analysis
 - Scam detection
 - Expense categorization
 - Simple user interface
 
-## 🛠 Tech Stack
+Tech Stack
 - Python
 - Streamlit
 
