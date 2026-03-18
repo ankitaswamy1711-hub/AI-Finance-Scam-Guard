@@ -21,8 +21,8 @@ Tech Stack
 - Python
 - Streamlit
 
-## ▶️ How to Run
+How to Run
 python -m streamlit run app.py
 
-## 📌 Impact
+Impact
 Helps students avoid financial fraud and manage money safely.
